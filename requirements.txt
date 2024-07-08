@@ -2,4 +2,4 @@ flask
 flask-admin
 flask-migrate
 flask-sqlalchemy
-sqlalchemy==1.4.*
+sqlalchemy
